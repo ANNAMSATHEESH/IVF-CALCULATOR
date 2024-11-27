@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IVF-CALCULATOR/static/css/main.c97bd9ee.css",
+    "main.js": "/IVF-CALCULATOR/static/js/main.58bb3aec.js",
+    "static/js/453.f775a175.chunk.js": "/IVF-CALCULATOR/static/js/453.f775a175.chunk.js",
+    "index.html": "/IVF-CALCULATOR/index.html",
+    "main.c97bd9ee.css.map": "/IVF-CALCULATOR/static/css/main.c97bd9ee.css.map",
+    "main.58bb3aec.js.map": "/IVF-CALCULATOR/static/js/main.58bb3aec.js.map",
+    "453.f775a175.chunk.js.map": "/IVF-CALCULATOR/static/js/453.f775a175.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97bd9ee.css",
+    "static/js/main.58bb3aec.js"
+  ]
+}
